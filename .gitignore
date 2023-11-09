@@ -25,6 +25,12 @@
 
 # Visual Studio cache directory
 .vs/
+.vscode/
+.vsconfig
+
+# Rider directory
+.idea/
+/ProjectSettings/RiderScriptEditorPersistedState.asset
 
 # Gradle cache directory
 .gradle/
@@ -70,3 +76,13 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
+
+# Others
+*.bak
+*.bak.meta
+ProjectSettings/ProjectSettings.asset
+Assets/Art/Meshes/Vehicles/Materials/M_Nets.mat.meta
+Assets/Art/Meshes/Vehicles/Materials/M_Nets.mat
+Assets/Art/Meshes/Vehicles/Materials/M_Boat.mat.meta
+Assets/Art/Meshes/Vehicles/Materials/M_Boat.mat
+Assets/Art/Meshes/Vehicles/Materials.meta
