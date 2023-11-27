@@ -1,0 +1,5 @@
+git lfs track "*.fbx"
+git lfs track "*.asset"
+git lfs track "*.hdr"
+
+
